@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283818927610",
+    "project_id": "invmgmt-8719f",
+    "storage_bucket": "invmgmt-8719f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283818927610:android:ac16a5eb9d4bf552c47043",
+        "android_client_info": {
+          "package_name": "com.example.invmgmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283818927610-nc31e5n3c1vrhmjf8vvapi3ea7s0biqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7cIu1W1_D_7yVig1BW0JGfLQroyK2hBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283818927610-nc31e5n3c1vrhmjf8vvapi3ea7s0biqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">InvMgmt</string>
+    <string name="error">Error</string>
+    <string name="okay">Okay</string>
+    <string name="login">Login</string>
+    <string name="register_account">Create New Account</string>
+    <string name="forums">Forums</string>
+    <string name="loading">Loading...</string>
+    <string name="deleting">Deleting...</string>
+    <string name="posting">Posting...</string>
+    <string name="creating">Creating...</string>
+    <string name="fetching">Fetching...</string>
+    <string name="liking">Liking...</string>
+    <string name="unliking">Unliking...</string>
+    <string name="forum">Forum</string>
+    <string name="new_forum">New Forum</string>
+
+    <string name="update_account">Update Account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+
+    <string name="button_submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="button_edit_profile">Edit Profile</string>
+    <string name="button_logout">Logout</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="internal">Internal Error</string>
+    <string name="alert">Alert</string>
+    <string name="invalid_login">Login unsuccessful! Invalid credentials</string>
+    <string name="success">Successful!</string>
+    <string name="invalid_register">Registration Unsuccessful!</string>
+    <string name="empty_fields">Please fill out all the values!</string>
+    <string name="welcome">Welcome %1$s</string>
+    <string name="genres">Genres</string>
+    <string name="app_cats">App Categories</string>
+    <string name="app_deets">App Details</string>
+
+    <string name="wait">Please wait...</string>
+    <string name="fetch_login">Logging in...</string>
+    <string name="fetch_reg">Registering...</string>
+    <string name="fetch_forums">Fetching Forums...</string>
+    <string name="fetch_apps">Fetching Apps...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
